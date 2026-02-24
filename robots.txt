@@ -1,5 +1,5 @@
 # robots.txt for DailyTechGuide
-# https://www.dailytechguide.com/
+# https://www.dailytechguide.me/
 
 User-agent: *
 Allow: /
@@ -18,4 +18,4 @@ Allow: /css/
 Allow: /js/
 
 # Sitemap location
-Sitemap: https://www.dailytechguide.com/sitemap.xml
+Sitemap: https://www.dailytechguide.me/sitemap.xml
