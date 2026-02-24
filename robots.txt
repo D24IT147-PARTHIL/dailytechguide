@@ -1,0 +1,21 @@
+# robots.txt for DailyTechGuide
+# https://www.dailytechguide.com/
+
+User-agent: *
+Allow: /
+
+# Disallow admin or private directories (none at present, reserved for future use)
+Disallow: /admin/
+Disallow: /private/
+
+# Allow all major crawlers to access CSS and JS for rendering
+User-agent: Googlebot
+Allow: /css/
+Allow: /js/
+
+User-agent: Bingbot
+Allow: /css/
+Allow: /js/
+
+# Sitemap location
+Sitemap: https://www.dailytechguide.com/sitemap.xml
