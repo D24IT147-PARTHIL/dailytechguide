@@ -3,238 +3,127 @@
 
   <!-- Core Pages -->
   <url>
-    <loc>https://www.dailytechguide.com/</loc>
-    <lastmod>2025-01-20</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+    <loc>https://dailytechguide.me/</loc>
   </url>
   <url>
-    <loc>https://www.dailytechguide.com/blog.html</loc>
-    <lastmod>2025-01-20</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
+    <loc>https://dailytechguide.me/blog.html</loc>
   </url>
   <url>
-    <loc>https://www.dailytechguide.com/about.html</loc>
-    <lastmod>2025-01-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <loc>https://dailytechguide.me/about.html</loc>
   </url>
   <url>
-    <loc>https://www.dailytechguide.com/contact.html</loc>
-    <lastmod>2025-01-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <loc>https://dailytechguide.me/contact.html</loc>
   </url>
   <url>
-    <loc>https://www.dailytechguide.com/privacy.html</loc>
-    <lastmod>2025-01-01</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.3</priority>
+    <loc>https://dailytechguide.me/privacy.html</loc>
   </url>
   <url>
-    <loc>https://www.dailytechguide.com/terms.html</loc>
-    <lastmod>2025-01-01</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.3</priority>
+    <loc>https://dailytechguide.me/terms.html</loc>
   </url>
   <url>
-    <loc>https://www.dailytechguide.com/disclaimer.html</loc>
-    <lastmod>2025-01-01</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.3</priority>
+    <loc>https://dailytechguide.me/disclaimer.html</loc>
   </url>
 
   <!-- Category Pages -->
   <url>
-    <loc>https://www.dailytechguide.com/technology.html</loc>
-    <lastmod>2025-01-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://dailytechguide.me/technology.html</loc>
   </url>
   <url>
-    <loc>https://www.dailytechguide.com/how-to-guides.html</loc>
-    <lastmod>2025-01-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://dailytechguide.me/how-to-guides.html</loc>
   </url>
   <url>
-    <loc>https://www.dailytechguide.com/finance-basics.html</loc>
-    <lastmod>2025-01-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://dailytechguide.me/finance-basics.html</loc>
   </url>
   <url>
-    <loc>https://www.dailytechguide.com/productivity.html</loc>
-    <lastmod>2025-01-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://dailytechguide.me/productivity.html</loc>
   </url>
   <url>
-    <loc>https://www.dailytechguide.com/digital-marketing.html</loc>
-    <lastmod>2025-01-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://dailytechguide.me/digital-marketing.html</loc>
   </url>
 
   <!-- Technology Articles -->
   <url>
-    <loc>https://www.dailytechguide.com/articles/ai-future-2025.html</loc>
-    <lastmod>2025-01-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://dailytechguide.me/articles/ai-future-2025.html</loc>
   </url>
   <url>
-    <loc>https://www.dailytechguide.com/articles/best-programming-languages-2025.html</loc>
-    <lastmod>2025-01-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://dailytechguide.me/articles/best-programming-languages-2025.html</loc>
   </url>
   <url>
-    <loc>https://www.dailytechguide.com/articles/cloud-computing-basics.html</loc>
-    <lastmod>2024-12-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://dailytechguide.me/articles/cloud-computing-basics.html</loc>
   </url>
   <url>
-    <loc>https://www.dailytechguide.com/articles/cybersecurity-home-tips.html</loc>
-    <lastmod>2024-12-20</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://dailytechguide.me/articles/cybersecurity-home-tips.html</loc>
   </url>
   <url>
-    <loc>https://www.dailytechguide.com/articles/5g-technology-explained.html</loc>
-    <lastmod>2024-12-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://dailytechguide.me/articles/5g-technology-explained.html</loc>
   </url>
 
   <!-- How-To Guides Articles -->
   <url>
-    <loc>https://www.dailytechguide.com/articles/how-to-speed-up-pc.html</loc>
-    <lastmod>2025-01-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://dailytechguide.me/articles/how-to-speed-up-pc.html</loc>
   </url>
   <url>
-    <loc>https://www.dailytechguide.com/articles/how-to-start-a-blog.html</loc>
-    <lastmod>2025-01-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://dailytechguide.me/articles/how-to-start-a-blog.html</loc>
   </url>
   <url>
-    <loc>https://www.dailytechguide.com/articles/how-to-use-google-drive.html</loc>
-    <lastmod>2025-01-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://dailytechguide.me/articles/how-to-use-google-drive.html</loc>
   </url>
   <url>
-    <loc>https://www.dailytechguide.com/articles/how-to-protect-online-privacy.html</loc>
-    <lastmod>2024-12-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://dailytechguide.me/articles/how-to-protect-online-privacy.html</loc>
   </url>
   <url>
-    <loc>https://www.dailytechguide.com/articles/how-to-build-morning-routine.html</loc>
-    <lastmod>2024-12-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://dailytechguide.me/articles/how-to-build-morning-routine.html</loc>
   </url>
 
   <!-- Finance Basics Articles -->
   <url>
-    <loc>https://www.dailytechguide.com/articles/budgeting-for-beginners.html</loc>
-    <lastmod>2025-01-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://dailytechguide.me/articles/budgeting-for-beginners.html</loc>
   </url>
   <url>
-    <loc>https://www.dailytechguide.com/articles/what-is-compound-interest.html</loc>
-    <lastmod>2025-01-06</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://dailytechguide.me/articles/what-is-compound-interest.html</loc>
   </url>
   <url>
-    <loc>https://www.dailytechguide.com/articles/emergency-fund-guide.html</loc>
-    <lastmod>2024-12-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://dailytechguide.me/articles/emergency-fund-guide.html</loc>
   </url>
   <url>
-    <loc>https://www.dailytechguide.com/articles/investing-basics-stocks.html</loc>
-    <lastmod>2024-12-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://dailytechguide.me/articles/investing-basics-stocks.html</loc>
   </url>
   <url>
-    <loc>https://www.dailytechguide.com/articles/passive-income-ideas.html</loc>
-    <lastmod>2024-12-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://dailytechguide.me/articles/passive-income-ideas.html</loc>
   </url>
 
   <!-- Productivity Articles -->
   <url>
-    <loc>https://www.dailytechguide.com/articles/best-productivity-apps.html</loc>
-    <lastmod>2025-01-20</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://dailytechguide.me/articles/best-productivity-apps.html</loc>
   </url>
   <url>
-    <loc>https://www.dailytechguide.com/articles/pomodoro-technique-guide.html</loc>
-    <lastmod>2025-01-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://dailytechguide.me/articles/pomodoro-technique-guide.html</loc>
   </url>
   <url>
-    <loc>https://www.dailytechguide.com/articles/time-blocking-method.html</loc>
-    <lastmod>2024-12-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://dailytechguide.me/articles/time-blocking-method.html</loc>
   </url>
   <url>
-    <loc>https://www.dailytechguide.com/articles/remote-work-tips.html</loc>
-    <lastmod>2024-11-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://dailytechguide.me/articles/remote-work-tips.html</loc>
   </url>
   <url>
-    <loc>https://www.dailytechguide.com/articles/deep-work-techniques.html</loc>
-    <lastmod>2024-11-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://dailytechguide.me/articles/deep-work-techniques.html</loc>
   </url>
 
   <!-- Digital Marketing Articles -->
   <url>
-    <loc>https://www.dailytechguide.com/articles/seo-basics-beginners.html</loc>
-    <lastmod>2025-01-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://dailytechguide.me/articles/seo-basics-beginners.html</loc>
   </url>
   <url>
-    <loc>https://www.dailytechguide.com/articles/content-marketing-strategy.html</loc>
-    <lastmod>2025-01-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://dailytechguide.me/articles/content-marketing-strategy.html</loc>
   </url>
   <url>
-    <loc>https://www.dailytechguide.com/articles/social-media-marketing-guide.html</loc>
-    <lastmod>2024-12-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://dailytechguide.me/articles/social-media-marketing-guide.html</loc>
   </url>
   <url>
-    <loc>https://www.dailytechguide.com/articles/email-marketing-beginners.html</loc>
-    <lastmod>2024-12-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://dailytechguide.me/articles/email-marketing-beginners.html</loc>
   </url>
   <url>
-    <loc>https://www.dailytechguide.com/articles/affiliate-marketing-guide.html</loc>
-    <lastmod>2024-11-25</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://dailytechguide.me/articles/affiliate-marketing-guide.html</loc>
   </url>
 
 </urlset>
